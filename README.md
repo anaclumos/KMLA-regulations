@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/mykmla/regulations.svg)](http://hits.dwyl.io/mykmla/regulations)
+
 # 민족사관고등학교 학교규정집
 
 **주소** `github.com/mykmla/regulations`

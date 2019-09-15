@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/mykmla/regulations.svg)](http://hits.dwyl.io/mykmla/regulations)
+[![forthebadge](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)](https://forthebadge.com)
 
 # 민족사관고등학교 학교규정집
 
